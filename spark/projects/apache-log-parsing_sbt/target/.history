@@ -1,0 +1,7 @@
+eclipse
+eclipse_1
+sbt test
+eclipse
+sbt test
+reload
+eclipse
