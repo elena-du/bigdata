@@ -15,4 +15,4 @@ hadoop jar build/jar/hdpexamples.jar com.cloudxlab.wordcount.StubDriver
 
 
 #This will create javamrout folder
-# You can open Hue from mylab and click file browser to check the output
+# #You can open Hue from mylab and click file browser to check the output
